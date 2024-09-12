@@ -1,0 +1,72 @@
+
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes scaleUp {
+    from {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  
+  @keyframes slideUp {
+    from {
+      transform: translateY(100%);
+    }
+    to {
+      transform: translateY(0);
+    }
+  }
+  
+  /* Login Page Styles */
+  
+  .login-container {
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  .login-form {
+    animation: scaleUp 0.5s ease-in-out;
+  }
+  
+  .login-form input {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .login-form input:focus {
+    border-color: #aaa;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-button {
+    animation: slideUp 0.5s ease-in-out;
+  }
+  
+  .login-button:hover {
+    background-color: #6c5ce7;
+  }
+  
+  /* Error Message Styles */
+  
+  .error-message {
+    animation: fadeIn 0.5s ease-in-out;
+    color: #f44336;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
+  /* Success Message Styles */
+  
+  .success-message {
+    animation: fadeIn 0.5s ease-in-out;
+    color: #2ecc71;
+    font-size: 14px;
+    margin-top: 10px;
+  }

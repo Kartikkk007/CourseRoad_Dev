@@ -1,0 +1,33 @@
+/* Custom utility classes */
+.text-lg {
+  font-size: 1.5rem;
+}
+
+.bg-red-500 {
+  background-color: #ff0033;
+}
+
+.flex justify-center {
+  display: flex;
+  justify-content: center;
+}
+
+/* Responsive design classes */
+.md\:text-lg {
+  @media (min-width: 768px) {
+    font-size: 1.5rem;
+  }
+}
+
+.lg\:flex {
+  @media (min-width: 1024px) {
+    display: flex;
+  }
+}
+
+/* Theme-specific classes */
+.dark\:bg-gray-800 {
+  @media (prefers-color-scheme: dark) {
+    background-color: #333;
+  }
+}

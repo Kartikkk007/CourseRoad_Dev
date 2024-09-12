@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "title": "Fundamentals of HTML, CSS, and JavaScript",
+    "username": "John Doe",
+    "vote": 5,
+    "students": 1000,
+    "price": "$100",
+    "oldPrice": "$200",
+    "type": "html"
+  },
+
+  {
+    "id": 2,
+    "title": "Introduction to Python Programming",
+    "username": "Jane Doe",
+    "vote": 4,
+    "students": 500,
+    "price": "$50",
+    "oldPrice": "$100",
+    "type": "python"
+  },
+  {
+    "id": 3,
+    "title": "Advanced Data Structures and Algorithms",
+    "username": "Bob Smith",
+    "vote": 5,
+    "students": 2000,
+    "price": "$200",
+    "oldPrice": "$300",
+    "type": "dsa"
+  },
+  {
+    "id": 4,
+    "title": "Web Development Bootcamp",
+    "username": "Alice Johnson",
+    "vote": 5,
+    "students": 1500,
+    "price": "$150",
+    "oldPrice": "$250",
+    "type": "webdev"
+  },
+  {
+    "id": 5,
+    "title": "Machine Learning Fundamentals",
+    "username": "Mike Brown",
+    "vote": 4,
+    "students": 1000,
+    "price": "$100",
+    "oldPrice": "$200",
+    "type": "ml"
+  },
+  {
+    "id": 6,
+    "title": "Database Management Systems",
+    "username": "Emily Davis",
+    "vote": 4,
+    "students": 500,
+    "price": "$50",
+    "oldPrice": "$100",
+    "type": "dbms"
+  },
+  {
+    "id": 7,
+    "title": "Cybersecurity Basics",
+    "username": "David Lee",
+    "vote": 5,
+    "students": 2000,
+    "price": "$200",
+    "oldPrice": "$300",
+    "type": "cybersec"
+  },
+   {
+      "id": 8,
+      "title": "Game Development Fundamentals",
+      "username": "Sarah Taylor",
+      "vote": 4,
+      "students": 1500,
+      "price": "$150",
+      "oldPrice": "$250",
+      "type": "gamedev"
+    },
+    {
+      "id": 9,
+      "title": "Android App Development",
+      "username": "Kevin White",
+      "vote": 4,
+      "students": 1000,
+      "price": "$100",
+      "oldPrice": "$200",
+      "type": "androidev"
+    },
+    {
+      "id": 10,
+      "title": "Java Framework and SpringBoot",
+      "username": "Lisa Nguyen",
+      "vote": 5,
+      "students": 500,
+      "price": "$50",
+      "oldPrice": "$100",
+      "type": "spring"
+    },
+    {
+      "id": 11,
+      "title": "Cloud Computing",
+      "username": "Michael Martin",
+      "vote": 5,
+      "students": 2000,
+      "price": "$200",
+      "oldPrice": "$300",
+      "type": "cloudcom"
+    },
+    {
+      "id": 12,
+      "title": "DevOps",
+      "username": "Rachel Hall",
+      "vote": 4,
+      "students": 1500,
+      "price": "$150",
+      "oldPrice": "$250",
+      "type": "devops"
+    },
+    {
+      "id": 13,
+      "title": "Robotics and AI",
+      "username": "Christopher Lee",
+      "vote": 4,
+      "students": 1000,
+      "price": "$100",
+      "oldPrice": "$200",
+      "type": "robotics"
+    },
+    {
+      "id": 14,
+      "title": "Block Chain and Cryptocurrency",
+      "username": "Jessica Kim",
+      "vote": 5,
+      "students": 500,
+      "price": "$50",
+      "oldPrice": "$100",
+      "type": "blockandcrypt"
+    },
+    {
+      "id": 15,
+      "title": "Social Media Management",
+      "username": "Daniel Kim",
+      "vote": 4,
+      "students": 2000,
+      "price": "$200",
+      "oldPrice": "$300",
+      "type": "smedia"
+    }
+  ]
